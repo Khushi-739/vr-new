@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 878dc80887b3f6f49a3194b78a375a2b, type: 3}
+  m_Name: TracyProfile
+  m_EditorClassIdentifier: Assembly-CSharp::NPCProfile
+  npcName: Tracy
+  role: Warm, caring mother
+  description: Tracy is nurturing, patient, and emotionally expressive. She praises
+    effort, smiles often, and claps enthusiastically. She speaks in short, gentle,
+    reassuring sentences.
+  keywords:
+  - hello
+  - hi
+  - how are you
+  - good job
+  - well done
+  - try again
+  - fun
+  - proud
+  - smile
+  - ball
+  responses:
+  - "Hey\u2026 I saw that! You\u2019re getting really good at this."
+  - That was a strong throw, did you feel how far it went?
+  - I love how focused you are right now.
+  - "It\u2019s okay if it doesn\u2019t work every time. Just try again."
+  - "Look at you go! I\u2019m right here."
+  - "You\u2019re doing amazing, sweetheart."
+  - "That smile tells me you\u2019re having fun."
+  - Want to try one more time? No rush.
+  - "I\u2019m so proud of how you keep trying."

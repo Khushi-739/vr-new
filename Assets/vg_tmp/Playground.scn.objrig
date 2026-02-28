@@ -1,0 +1,7 @@
+0 hidden joints: ()
+
+Object hierarchy:
+
+LIMB [vg_world|2147483647] has no parent and 0 children
+ Joint: [vg_world|2147483647] FIXED, pivot [0, 0, 0]
+
